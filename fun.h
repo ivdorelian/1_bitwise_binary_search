@@ -1,0 +1,8 @@
+//
+// Created by Vlad Ionescu on 14.09.2021.
+//
+
+#ifndef BITWISE_BINARY_SEARCH_FUN_H
+#define BITWISE_BINARY_SEARCH_FUN_H
+
+#endif //BITWISE_BINARY_SEARCH_FUN_H
